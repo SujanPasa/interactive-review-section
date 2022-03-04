@@ -100,6 +100,7 @@ img{
     border-radius: 0.25rem;
 }
 
+
 #surprise-me{
     margin-top: 1rem;
     font-size: 1.2em;
@@ -107,11 +108,12 @@ img{
     border-radius: 0.55rem;
     margin-bottom: 1rem;
     padding:.5rem;
+    border: 1px solid #0d60ad;
 
 }
 
 #surprise-me:hover{
-    background-color: #0d60ad;
+    background-color: #387cbb;
     color: #fff;
 
 }
@@ -120,11 +122,11 @@ img{
     color: #617d98;
     padding:0.25rem;
     background-color: #f1f5f8;
+    
 }
 
 .fa-solid:hover{
-    background-color: #0d60ad;
-    color: #fff;
+    color: #102a42;
     
 }
 
@@ -146,6 +148,7 @@ img{
         max-width: 60%;
         margin-left: auto;
         margin-right: auto;
+        min-height: 300px;
     }
 
     #review-text{
